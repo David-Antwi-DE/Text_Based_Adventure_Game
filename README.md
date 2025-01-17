@@ -8,7 +8,7 @@ way to track how far the user has moved (and therefore which room he/she is in),
 out a description. You’ll also need to set limits for how far the user can move. In other words,
 create “walls” around the rooms that tell the user, “You can’t move further in this direction.”
 
-###Concepts to keep in mind:
+### Concepts to keep in mind:
 ● Strings
 ● Variables
 ● Input/Output
@@ -49,3 +49,6 @@ project. *Hint hint.
                     +--------+
                     | outside|
                     +--------+
+
+
+end
