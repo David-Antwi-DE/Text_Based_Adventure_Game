@@ -26,29 +26,33 @@ substantially harder, especially if you want your user to start interacting with
 within the game. That complexity could be great, if you’d like to make this into a long term
 project. *Hint hint.
 
-#### Game Map 
+### Game Map: This shows the various rooms ans locations
+
 
                                      +-------+
                                      |cellar |
                                      +-------+
                                          ↑ N
                                          |
-                                       ↓ S
+                                         |
+                                         ↓ S
                 +---------+        +------------+
                 | bathroom|        |living room |
                 +---------+        +------------+
-    ↑ N                 ↑ N
-    |                   |
-    ↓ S                 ↓ S
-+---------+  W      +---------+
-|  stairs | ←-----→ | kitchen |
-+---------+      E  +---------+
-                        ↑ N
-                        |
-                        ↓ S
-                    +--------+
-                    | outside|
-                    +--------+
+                     ↑ N                  ↑ N
+                      |                     |
+                      |                     |                    
+                    ↓ S                   ↓ S
+                 +---------+  W      +---------+
+                 |  stairs | ←-----→ | kitchen |
+                 +---------+      E  +---------+
+                                          ↑ N
+                                          |
+                                          |
+                                          ↓ S
+                                      +--------+
+                                      | outside|
+                                      +--------+
 
 
-end
+
